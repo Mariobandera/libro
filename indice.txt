@@ -1,13 +1,7 @@
+Capitulo 1: introducción a Git
+Capitulo 2:Flujo de trabajo básico
+Capitulo 3:Gestion de ramas
+Capítulo 4:Repositorios remotos
+Capitulo 5: Conceptos avanzados
 
 
-añadido capitulo 3 sobre gestion de ramas al indice
-
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# Date:      Tue Jul 19 15:42:55 2022 +0200
-#
-# On branch master
-# Changes to be committed:
-#	modified:   indice.txt
-#
